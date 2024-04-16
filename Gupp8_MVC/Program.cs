@@ -1,5 +1,5 @@
 var builder = WebApplication.CreateBuilder(args);
-
+//hej
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
@@ -25,6 +25,8 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 aptyuiwerwertyip.Run();
+app.Run();//Fadi Kommenterar och pushar branschen "Fadi"
+aptyuityip.Run();
 
 /* 
  * Jättestor förändring som jag pushar upp
