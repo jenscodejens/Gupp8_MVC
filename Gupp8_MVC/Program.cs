@@ -24,7 +24,7 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
-aptyuityip.Run();
+aptyuiwerwertyip.Run();
 
 /* 
  * Jättestor förändring som jag pushar upp
