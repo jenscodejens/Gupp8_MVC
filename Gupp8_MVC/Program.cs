@@ -25,6 +25,7 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();//Fadi Kommenterar och pushar
+aptyuityip.Run();
 
 /* 
  * Jättestor förändring som jag pushar upp
