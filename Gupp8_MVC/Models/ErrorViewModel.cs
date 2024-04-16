@@ -1,3 +1,4 @@
+//Hej /Karl
 namespace Gupp8_MVC.Models
 {
     public class ErrorViewModel
