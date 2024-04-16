@@ -24,7 +24,7 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
-app.Run();
+app.Run();//Fadi Kommenterar och pushar
 
 /* 
  * Jättestor förändring som jag pushar upp
